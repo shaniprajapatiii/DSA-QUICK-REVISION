@@ -6,7 +6,7 @@
 
 import java.util.Arrays;
 
-public class First_SecondLargestElement1 {
+public class A1_SecondLargestElement1 {
     
     // function to find the second largest element
     public static int getSecondLargest(int[] arr) {

@@ -4,7 +4,7 @@
 // Java program to find the second largest element in the array
 // using one traversal
 
-public class First_SecondLargestElement3 {
+public class A1_SecondLargestElement3 {
     
     // function to find the second largest element in the array
     public static int getSecondLargest(int[] arr) {
