@@ -9,7 +9,7 @@ The number to come in-place is the rightmost greater number on right side of the
 Each permutation (except the very first) has an increasing suffix. Now if we change the pattern from the pivot point (where the increasing suffix breaks) to its next possible lexicographic representation we will get the next greater permutation. 
 */
 
-public class A5_NextPermutaion2 {
+public class A5_NextPermutaion_2 {
 
    public static void nextPermutation(int[] arr) {
 

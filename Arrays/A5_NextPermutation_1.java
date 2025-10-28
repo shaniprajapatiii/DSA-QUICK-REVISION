@@ -10,7 +10,7 @@ The idea is that we would first generate all possible permutations of a given ar
 
 import java.util.*;
 
-public class A5_NextPermutation1 {
+public class A5_NextPermutation_1 {
 
    // Function to generate all possible permutations
    public static void generatePermutations(List<List<Integer>> res,
